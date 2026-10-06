@@ -3,3 +3,5 @@ target/
 *.iml
 .vscode/
 *.log
+
+docs/guia-ejecucion-capturas-sca.md

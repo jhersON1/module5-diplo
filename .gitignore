@@ -5,3 +5,4 @@ target/
 *.log
 
 docs/guia-ejecucion-capturas-sca.md
+evidencias/*

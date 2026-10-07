@@ -1,0 +1,11 @@
+{
+  "Commit": "070ce96132f840b0321d471e7419e12846802a17",
+  "Repository": "https://github.com/jhersON1/module5-diplo.git",
+  "TrivyVersion": "0.74.0",
+  "ReportCreatedAt": "2026-10-07T02:19:02.944789647Z",
+  "WorkflowResultObserved": "failure",
+  "HighFindings": 16,
+  "CriticalFindings": 7,
+  "SelectedCVEFindings": 0,
+  "WorkflowRunUrl": "https://github.com/jhersON1/module5-diplo/actions/runs/37561324791"
+}
